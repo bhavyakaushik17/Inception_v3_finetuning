@@ -1,5 +1,6 @@
 # Inception_v3_finetuning
-Deep Convolutional Neural Networks
+* Deep Convolutional Neural Networks
+* Transfer Learning
 
 Fine tuned Inception_v3 on Yelp dataset using pretrained imagenet weights:
 https://github.com/bhavyakaushik17/Inception_v3_finetuning/blob/master/Yelp_finetuning.ipynb
